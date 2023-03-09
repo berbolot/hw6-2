@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#ret{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.container{
+    border: 3px solid red;
+    width: 335px;
+    margin: 10px auto;
+    border-radius: 20px;
+    padding: 10px;
+}

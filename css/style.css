@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#get{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.nav{
+    border: 3px solid red;
+    width: 335px;
+    height: 200px;
+    margin-top: 25px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+}
